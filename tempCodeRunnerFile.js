@@ -1,0 +1,1 @@
+@handlebars/allow-prototype-access
